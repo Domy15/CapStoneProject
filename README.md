@@ -41,7 +41,7 @@ FRONTEND (UI)
 
 5. Avvia il progetto con: npm run dev, sempre nel terminale
 
-Verrà mostrato un link (es. http://localhost:3000) cliccabile con Ctrl + Click: questo aprirà l'app nel browser sulla home.
+Verrà mostrato un link (es. http://localhost:3000) cliccabile con Ctrl + Tasto Sinistro: questo aprirà l'app nel browser sulla home.
 Da qui puoi creare un account e iniziare a esplorare le funzionalità dell'applicazione.
 
 ⚠️ ACCOUNT AMMINISTRATORE
@@ -71,7 +71,7 @@ Nel sito avrai diverse pagine, le principali sono:
 
 2. La pagina della lista di tutti i giochi acquistabili (filtrabili per categorie, barra di ricerca e prezzo).
 
-3. La pagina di dettaglio di ogni gioco (con relatici commenti), ed è possibile aggiungerlo alla lista desideri o il carrello.
+3. La pagina di dettaglio di ogni gioco (con relativi commenti), ed è possibile aggiungerlo alla lista desideri o il carrello.
 
 4. Lista desideri dove potrai inserire i giochi che ti interessano.
 
@@ -125,7 +125,7 @@ Qui è possibile visualizzare tutti i dettagli del gioco es. descrizione, prezzo
 Le recensioni potranno essere sempre letti, ma l'aggiunta di esse potrà essere fatta solo se si possiede il gioco, inoltre si potrà modificare o eliminare solo le proprie recensioni (ad eccezione dell'admin che potrà gestirlie tutte).
 
 
-La lista desideri invece offre la possibilità di visualizzare tutti i giohi aggiunti come anche rimuoverli. Da qui si potrà anche aggiungere al carrello (o direttamente alla libreria nel caso sia free to play) il gioco che si vuole acquistare.
+La lista desideri invece offre la possibilità di visualizzare tutti i giochi aggiunti come anche rimuoverli. Da qui si potrà anche aggiungere al carrello (o direttamente alla libreria nel caso sia free to play) il gioco che si vuole acquistare.
 
 Il carrello, come la lista desideri, permette la visualizzazione e rimozione, dal carrello, dei giochi presenti, sarà ovviamente presente un pulsante che indicherà il prezzo totale dei giochi aggiunti e darà la possibilità di procedere all'acquisto aggiungendo tutti i giochi alla libreria.
 
